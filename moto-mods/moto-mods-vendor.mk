@@ -18,3 +18,9 @@
 PRODUCT_COPY_FILES += \
     vendor/motorola/moto-mods/proprietary/lib/libmodmanager.so:system/lib/libmodmanager.so \
     vendor/motorola/moto-mods/proprietary/lib64/libmodmanager.so:system/lib64/libmodmanager.so
+
+PRODUCT_PACKAGES += \
+    ModFmwkProxyService \
+    ModService \
+    ProjectorApp \
+    MotCameraMod
