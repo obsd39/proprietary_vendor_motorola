@@ -62,7 +62,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shamu/proprietary/lib/libdmengine.so:system/lib/libdmengine.so \
     vendor/motorola/shamu/proprietary/lib/libdmjavaplugin.so:system/lib/libdmjavaplugin.so \
     vendor/motorola/shamu/proprietary/lib/libflacencoder.so:system/lib/libflacencoder.so \
-    vendor/motorola/shamu/proprietary/lib/libldacBT_enc.so:system/lib/libldacBT_enc.so \
     vendor/motorola/shamu/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
     vendor/motorola/shamu/proprietary/lib/libmotaudioutils.so:system/lib/libmotaudioutils.so \
     vendor/motorola/shamu/proprietary/vendor/lib/soundfx/libspeakerbundle.so:system/vendor/lib/soundfx/libspeakerbundle.so \
